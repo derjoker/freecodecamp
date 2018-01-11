@@ -1,0 +1,9 @@
+img.avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+
+section > div > img {
+  max-width: 100%;
+}
