@@ -1,3 +1,47 @@
+body {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+body {
+  background: #7ebea5;
+}
+
+header {
+  background: #2a4073;
+  color: white;
+  height: 64px;
+  display: block;
+}
+
+header img {
+  width: 48px;
+  height: 48px;
+  margin: 8px;
+  float: left;
+}
+
+nav {
+  height: 64px;
+  float: right;
+}
+
+nav li {
+  float: left;
+  margin: 16px;
+}
+
+nav li a {
+  text-decoration: none;
+  font-size: 24px;
+  color: white;
+}
+
 img.avatar {
   width: 200px;
   height: 200px;
