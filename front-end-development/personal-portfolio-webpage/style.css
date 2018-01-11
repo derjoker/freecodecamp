@@ -46,7 +46,7 @@ nav li a {
   color: white;
 }
 
-main {
+main > section {
   padding-top: 64px;
 }
 
