@@ -9,6 +9,10 @@ ul {
   list-style: none;
 }
 
+a {
+  text-decoration: none;
+}
+
 body {
   background: #f6f7f8;
 }
@@ -60,6 +64,16 @@ section > div > img {
   padding-top: 24px;
   max-width: 768px;
   width: 90%;
+}
+
+#contact {
+  margin-bottom: 48px;
+  text-align: center;
+}
+
+#contact li {
+  display: inline;
+  margin: 6px;
 }
 
 footer {
